@@ -108,6 +108,7 @@ Skills for working with complex file formats:
   - Uses new techniques that are still being refined and tested (i.e. skills here may change over time)
   - [Blog post about its development](https://blog.fsck.com/2025/10/23/naming-claude-plugins/)
   - Install from `superpowers-marketplace` plugin
+  - **[pr-description-writer](https://github.com/Sudhanshu-Biswal/pr-description-writer)** - Writes reviewer-ready PR descriptions from git diff, commit messages, and changed files in seconds
 
 
 ### Individual Skills
